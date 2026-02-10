@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>DocScan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <h1>📄 DocScan</h1>
+      <p>Transformez vos documents en texte</p>
+    </header>
+
+    <!-- Upload -->
+    <div class="upload-section">
+      <label for="fileInput" class="upload-btn">
+        📤 Importer une image
+      </label>
+      <input type="file" id="fileInput" accept=".jpg,.jpeg,.png" hidden />
+      <p id="fileName" class="file-name"></p>
+    </div>
+
+    <!-- Action -->
+    <button id="analyzeBtn" class="analyze-btn">
+      🔍 Analyser le document
+    </button>
+
+    <!-- Résultat -->
+    <div class="result-section">
+      <label for="resultText">📄 Texte extrait</label>
+      <textarea id="resultText" placeholder="Le texte OCR s’affichera ici..."></textarea>
+    </div>
+
+    <!-- Actions -->
+    <div class="actions">
+      <button id="copyBtn">📋 Copier le texte</button>
+      <button id="downloadBtn">💾 Télécharger .txt</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

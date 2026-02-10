@@ -34,7 +34,7 @@ DocScan facilite ce processus en proposant **une interface simple et accessible 
 ## Technologies utilisées
 
 - HTML, CSS, JavaScript  
-- Prévu pour intégrer plus tard OCR via **Tesseract.js** ou backend Python
+- Prévu pour intégrer plus tard avec l' OCR 
 
 ## Instructions pour lancer le projet
 

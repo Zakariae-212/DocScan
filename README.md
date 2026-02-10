@@ -18,13 +18,16 @@ DocScan facilite ce processus en proposant **une interface simple et accessible 
 ## Membres du groupe
 
 - Rami Z.  
-- [Ajouter d’autres membres si nécessaire]  
+-
+-
+- 
 
 ## Fonctionnalités
 
 - 📤 Importer une image ou un PDF  
 - 🔍 Analyser le document (simulation)  
-- 📄 Visualiser le texte extrait  
+- 📄 Visualiser le texte extrait
+- ✏️ Modifier le texte : vous pouvez éditer directement le texte extrait dans la zone prévue  
 - 📋 Copier le texte  
 - 💾 Télécharger le texte en `.txt`  
 

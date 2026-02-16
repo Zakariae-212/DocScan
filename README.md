@@ -2,8 +2,8 @@
 
 ## Description
 
-**DocScan** est une interface web simple et intuitive qui permet aux utilisateurs de **transformer leurs documents en texte**.  
-L'application supporte actuellement les **images (.jpg, .jpeg, .png)** et pourra être étendue pour gérer les **PDFs**.  
+**DocScan** est une interface web simple et intuitive qui permet aux utilisateurs de **transformer leurs images en texte**.  
+L'application supporte les **images (.jpg, .jpeg, .png)** .  
 
 Elle offre une interface claire avec :  
 - Upload d’un fichier document  
@@ -12,7 +12,7 @@ Elle offre une interface claire avec :
 
 ## Problème que l'application comble
 
-De nombreux utilisateurs ont des documents **scannés ou au format image/PDF** et souhaitent en extraire rapidement le texte **sans logiciel complexe**.  
+De nombreux utilisateurs ont des documents **scannés ou au format image** et souhaitent en extraire rapidement le texte **sans logiciel complexe**.  
 DocScan facilite ce processus en proposant **une interface simple et accessible depuis le navigateur**, prête à intégrer un moteur OCR dans une prochaine version.
 
 ## Membres du groupe
@@ -24,7 +24,7 @@ DocScan facilite ce processus en proposant **une interface simple et accessible 
 
 ## Fonctionnalités
 
-- 📤 Importer une image ou un PDF  
+- 📤 Importer une image   
 - 🔍 Analyser le document (simulation)  
 - 📄 Visualiser le texte extrait
 - ✏️ Modifier le texte : vous pouvez éditer directement le texte extrait dans la zone prévue  

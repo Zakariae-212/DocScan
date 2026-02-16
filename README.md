@@ -17,10 +17,10 @@ DocScan facilite ce processus en proposant **une interface simple et accessible 
 
 ## Membres du groupe
 
-- Rami Z.  
--
--
-- 
+- Rami Z.
+- Tamairt W. 
+- Rhabhi Y.
+- Benmansour A. 
 
 ## Fonctionnalités
 
